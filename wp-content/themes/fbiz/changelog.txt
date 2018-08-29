@@ -1,0 +1,55 @@
+fBiz 1.1.1, 2018-08-04
+------------------------
+- display slider and homepage widgets only on static homepage
+- remove default widgets content
+
+fBiz 1.1.0, 2018-06-08
+------------------------
+- fix issue with comments GDPR checkbox
+- update screenshot.png
+
+fBiz 1.0.9, 2018-04-25
+------------------------
+- fix issue with wrong Instagram slug widget
+
+fBiz 1.0.8, 2018-03-12
+------------------------
+- add Pinterest widget support
+- add Facebook widget support
+- add Instagram widget support
+
+fBiz 1.0.7, 2017-12-23
+------------------------
+- improve animation effects
+- add footer menu
+
+fBiz 1.0.6, 2017-11-16
+------------------------
+- add animations
+
+fBiz 1.0.5, 2017-01-08
+------------------------
+- add full-width page template
+
+fBiz 1.0.4, 2016-11-18
+------------------------
+- add custom logo
+- add footer widget areas
+- bug fixes
+
+fBiz 1.0.3, 2016-07-10
+------------------------
+- update tags in style.css
+
+fBiz 1.0.2, 2016-02-13
+------------------------
+- FontAwesome update
+- bug fixes
+
+fBiz 1.0.1, 2015-10-10
+------------------------
+- use customizer instead of admin options page
+
+fBiz 1.0.0, 2015-04-13
+------------------------
+- Initial release

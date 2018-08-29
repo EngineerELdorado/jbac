@@ -1,0 +1,243 @@
+# Translation of Themes - fBiz in English (UK)
+# This file is distributed under the same license as the Themes - fBiz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-08 20:30:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - fBiz\n"
+
+#. Description of the plugin/theme
+msgid "fBiz is a clean, 100% responsive and easy to use WordPress theme suitable for a corporate, business, startup, a company website or a blog. It is fully responsive, built-in slider included, multi-level drop-down menu, W3C markup validated, right sidebar widget area, 3 homepage columns widget areas, customize options, search engine optimized, cross-browser compatible (IE9, IE10, IE11, Chrome, Firefox, Opera, and Safari), Full Width Page Template, FontAwesome integration, translation ready and much more."
+msgstr "fBiz is a clean, 100% responsive and easy to use WordPress theme suitable for a corporate/business/startup/company website or blog. It is fully responsive, with built-in slider included, as well as multi-level drop-down menu, W3C markup validated, right sidebar widget area, 3 homepage columns widget areas, customisable options, search engine optimised, cross-browser compatible (IE9, IE10, IE11, Chrome, Firefox, Opera, and Safari), full width page template, FontAwesome integration, translation ready, and much more."
+
+#. Theme Name of the plugin/theme
+msgid "fBiz"
+msgstr "fBiz"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebars Page"
+msgstr "No Sidebars Page"
+
+#: single.php:45
+msgid "Next Chapter: %title"
+msgstr "Next Chapter: %title"
+
+#: single.php:44
+msgid "Prev Chapter: %title"
+msgstr "Prev Chapter: %title"
+
+#: sidebar-footer.php:57
+msgid "This is second footer widget area. To customize it, please navigate to Admin Panel -> Appearance -> Widgets and add widgets to Footer Column #2."
+msgstr "This is the second footer widget area. To customise it, please navigate to Admin Panel -> Appearance -> Widgets and add widgets to Footer Column #2."
+
+#: sidebar-footer.php:50
+msgid "Footer Col Widget 2"
+msgstr "Footer Col Widget 2"
+
+#: sidebar-footer.php:33
+msgid "This is first footer widget area. To customize it, please navigate to Admin Panel -> Appearance -> Widgets and add widgets to Footer Column #1."
+msgstr "This is the first footer widget area. To customise it, please navigate to Admin Panel -> Appearance -> Widgets and add widgets to Footer Column #1."
+
+#: sidebar-footer.php:26
+msgid "Footer Col Widget 1"
+msgstr "Footer Col Widget 1"
+
+#: functions.php:212
+msgid "The Footer Column #2 widget area"
+msgstr "The Footer Column #2 widget area"
+
+#: functions.php:210
+msgid "Footer Column #2"
+msgstr "Footer Column #2"
+
+#: functions.php:202
+msgid "The Footer Column #1 widget area"
+msgstr "The Footer Column #1 widget area"
+
+#: functions.php:200
+msgid "Footer Column #1"
+msgstr "Footer Column #1"
+
+#: customize-pro/class-customize.php:77
+msgid "Upgrade to Pro"
+msgstr "Upgrade to Pro"
+
+#: customize-pro/class-customize.php:76
+msgid "tBiz"
+msgstr "tBiz"
+
+#: functions.php:395
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:381
+msgid "Slide #%s Image"
+msgstr "Slide #%s Image"
+
+#: functions.php:341
+msgid "Slider"
+msgstr "Slider"
+
+#: single.php:36
+msgid "Pages:"
+msgstr "Pages:"
+
+#: sidebar-home.php:82
+msgid "This is third homepage widget area. To customize it, please navigate to Admin Panel -> Appearance -> Widgets and add widgets to Homepage Column #3."
+msgstr "This is the third homepage widget area. To customise it, please navigate to Admin Panel -> Appearance -> Widgets and add widgets to Homepage Column #3."
+
+#: sidebar-home.php:75
+msgid "Home Col Widget 3"
+msgstr "Home Col Widget 3"
+
+#: sidebar-home.php:57
+msgid "This is second homepage widget area. To customize it, please navigate to Admin Panel -> Appearance -> Widgets and add widgets to Homepage Column #2."
+msgstr "This is the second homepage widget area. To customise it, please navigate to Admin Panel -> Appearance -> Widgets and add widgets to Homepage Column #2."
+
+#: sidebar-home.php:50
+msgid "Home Col Widget 2"
+msgstr "Home Col Widget 2"
+
+#: sidebar-home.php:33
+msgid "This is first homepage widget area. To customize it, please navigate to Admin Panel -> Appearance -> Widgets and add widgets to Homepage Column #1."
+msgstr "This is the first homepage widget area. To customise it, please navigate to Admin Panel -> Appearance -> Widgets and add widgets to Homepage Column #1."
+
+#: sidebar-home.php:26
+msgid "Home Col Widget 1"
+msgstr "Home Col Widget 1"
+
+#: searchform.php:19
+msgid "Search..."
+msgstr "Search..."
+
+#: search.php:20
+msgid "You searched for \"%s\". Here are the results:"
+msgstr "You searched for \"%s\". Here are the results:"
+
+#: functions.php:363
+msgid "Slide #%s Content"
+msgstr "Slide #%s Content"
+
+#: functions.php:411
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+#: functions.php:302 functions.php:356
+msgid "<h2>Lorem ipsum dolor</h2><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><a class=\"btn\" title=\"Read more\" href=\"#\">Read more</a>"
+msgstr "<h2>Lorem ipsum dolor</h2><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><a class=\"btn\" title=\"Read more\" href=\"#\">Read more</a>"
+
+#: functions.php:284
+msgid "Read More..."
+msgstr "Read more..."
+
+#: functions.php:271
+msgid "Read More"
+msgstr "Read More"
+
+#: functions.php:188
+msgid "The Homepage Column #%s widget area"
+msgstr "The Homepage Column #%s widget area"
+
+#: functions.php:186
+msgid "Homepage Column #%s"
+msgstr "Homepage Column #%s"
+
+#: functions.php:172
+msgid "The sidebar widget area"
+msgstr "The sidebar widget area"
+
+#: functions.php:170
+msgid "Sidebar Widget Area"
+msgstr "Sidebar Widget Area"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Cantarell, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:145
+msgctxt "Cantarell font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:27 footer.php:28
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:27
+msgid "powered by"
+msgstr "powered by"
+
+#: footer.php:27
+msgid "fBiz Theme"
+msgstr "fBiz Theme"
+
+#: footer.php:26
+msgid "fbiz Theme"
+msgstr "fbiz Theme"
+
+#: content.php:108
+msgid "Tags:"
+msgstr "Tags:"
+
+#: content.php:99
+msgid "Categories:"
+msgstr "Categories:"
+
+#: content-page.php:33 content.php:74
+msgid "Edit"
+msgstr "Edit"
+
+#: content-page.php:28 content.php:69
+msgid "% Comments"
+msgstr "% Comments"
+
+#: content-page.php:28 content.php:69
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: content-page.php:28 content.php:69
+msgid "No Comments"
+msgstr "No Comments"
+
+#: content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:21
+msgid "No Results Found!"
+msgstr "No Results Found!"
+
+#: content-none.php:17
+msgid "Oh no! Article not found! 404 error!"
+msgstr "Oh no! Article not found! 404 error!"
+
+#: comments.php:53 content-page.php:28 content.php:69
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:22
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#. Author URI of the plugin/theme
+msgid "https://tishonator.com"
+msgstr "https://tishonator.com"
+
+#. Author of the plugin/theme
+msgid "tishonator"
+msgstr "tishonator"
+
+#. Theme URI of the plugin/theme
+msgid "https://tishonator.com/product/fbiz"
+msgstr "https://tishonator.com/product/fbiz"
